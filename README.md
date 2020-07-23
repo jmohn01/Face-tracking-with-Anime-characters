@@ -13,7 +13,7 @@ Clone this repository and run yuriblush.py
 The pictures given below are saved in the assets folder.(you can also use your own waifus if you want)
 Run the code and have fun with your waifu ... weeb
 
-Make your own:
+Make your own...
 
 you will need only 2 images
 1) character without eyes
